@@ -1,22 +1,25 @@
-👋 Hi, I'm Kundu Yaswani
+# 👋 Hi, I'm Kundu Yaswani
 
-🎓 Final-Year B.Tech Computer Science Student
-💻 Aspiring Full Stack Developer
-🌱 Passionate about building scalable web applications and continuously learning modern technologies.
+🎓 Final-Year B.Tech Computer Science Student  
+💻 Aspiring Full Stack Developer  
+🌱 Passionate about building scalable web applications and solving real-world problems.
 
-🚀 About Me
+---
+
+## 🚀 About Me
 
 - 🎓 Final-Year B.Tech Computer Science Student
-- 💼 Ex-Intern at Codeon Technologies Pvt. Ltd.
-- 🌐 Aspiring Full Stack Developer
+- 💼 Ex-Intern @ Codeon Technologies Pvt. Ltd.
+- 💻 Aspiring Full Stack Developer
 - 🐍 Python Enthusiast
-- 📚 Currently enhancing my skills in Full Stack Development and Data Structures & Algorithms
-- 🤝 Open to internships, collaborations, and exciting learning opportunities
+- 🌱 Currently learning Full Stack Development, REST APIs & DSA
+- 🤝 Open to Internship and Full-Time Opportunities
 
-🛠️ Tech Stack
+---
 
-Programming Languages
+## 🛠️ Tech Stack
 
+### Languages
 - Python
 - Java
 - JavaScript
@@ -24,47 +27,56 @@ Programming Languages
 - CSS3
 - SQL
 
-Tools & Technologies
-
+### Frameworks & Tools
 - Flask
-- Figma
+- MySQL
 - Git
 - GitHub
-- MySQL
+- Figma
 - VS Code
-
-📌 Featured Projects
-
-💰 Expense Tracker
-
-A web application that enables users to securely manage their daily expenses with authentication, expense tracking, category-wise organization, and an interactive dashboard.
-
-Tech Stack: Python, Flask, MySQL, HTML, CSS, JavaScript
-
-🎟️ Online Event Registration System with QR Code Integration
-
-A web-based event management system that allows users to register for events and receive QR codes for seamless event entry and verification.
-
-Tech Stack: Python, Flask, MySQL, HTML, CSS, JavaScript
-
-📈 Currently Learning
-
-- REST APIs
-- Full Stack Development
-- Data Structures & Algorithms
-
-🎯 Career Goals
-
-- Become a proficient Full Stack Developer
-- Contribute to Open Source projects
-- Build impactful real-world applications
-- Secure a Software Developer role
-
-📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/kunduyaswani
-- 📧 Email: kunduyaswani@gmail.com
 
 ---
 
-⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories, share your feedback, and connect with me.
+## 📌 Featured Projects
+
+### 💰 Expense Tracker
+A secure web application for tracking daily expenses with user authentication, expense categorization, dashboard analytics, and reports.
+
+**Tech Stack:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 🎟️ Online Event Registration System with QR Code Integration
+A web application that allows users to register for events and receive QR codes for seamless event entry and verification.
+
+**Tech Stack:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
+---
+
+## 📚 Currently Learning
+
+- Full Stack Development
+- REST APIs
+- Data Structures & Algorithms
+- React.js
+
+---
+
+## 🎯 Career Goals
+
+- 🚀 Become a Full Stack Developer
+- 🌍 Contribute to Open Source
+- 💡 Build impactful real-world applications
+- 💼 Secure a Software Developer role
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/kunduyaswani
+
+📧 Email: kunduyaswani@gmail.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile! If you like my projects, don't forget to ⭐ them!
